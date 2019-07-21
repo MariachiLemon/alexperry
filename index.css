@@ -1,0 +1,41 @@
+body{
+  background-color: #ffeae6;
+  text-align: center;
+}
+
+
+.title{
+  text-align: center;
+  font-weight: 150;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+  font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
+}
+.Ingredients{
+  font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.div {
+  float: left;
+  margin-left: 200px;
+}
+
+.div2  {
+   float: right;
+   margin-right: 175px;
+}
+
+.intro {
+  float: right;
+  margin-right: 200px;
+  width: 400px;
+  padding: 10px;
+  border: 0 px;
+  margin: 0;
+}
